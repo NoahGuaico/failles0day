@@ -13,6 +13,7 @@ Les Failles zéros day
     :numbered:
 
     introduction.rst
+    definition.rst
     conclusion.rst
     references.rst
 
