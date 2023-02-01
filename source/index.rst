@@ -4,16 +4,26 @@
     contain the root `toctree` directive.
     
 
-Titre de votre travail personnel (changer dans `source/index.rst`)
+Les Failles zéros day
 =================================
 
 ..  toctree::
     :maxdepth: 2
     :caption: Table des matières
+    :numbered:
 
     introduction.rst
     conclusion.rst
     references.rst
+
+
+Images
+######
+
+.. figure:: ./images/603px-bossonens-coat_of_arms.png
+    :width: 50%
+    :align: center
+
 
 ..
     ..  toctree::
