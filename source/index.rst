@@ -3,6 +3,10 @@
     You can adapt this file completely to your liking, but it should at least
     contain the root `toctree` directive.
     
+.. figure:: ./images/zero-day-attack-1260x420.jpg
+    :width: 100%
+    :align: center
+
 
 Les Failles zéros day
 =================================
@@ -13,19 +17,19 @@ Les Failles zéros day
     :numbered:
 
     introduction.rst
+
     definition.rst
+
     business.rst
+
     connues.rst
+
     conclusion.rst
+
     references.rst
 
 
-Images
-######
 
-.. figure:: ./images/603px-bossonens-coat_of_arms.png
-    :width: 50%
-    :align: center
 
 
 ..
