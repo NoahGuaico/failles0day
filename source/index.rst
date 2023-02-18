@@ -15,6 +15,7 @@ Les Failles zéros day
     introduction.rst
     definition.rst
     business.rst
+    connues.rst
     conclusion.rst
     references.rst
 
