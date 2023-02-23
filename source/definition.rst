@@ -33,11 +33,20 @@ Ces exploits sont des malwares développés par des cybercriminels qui exploiten
 Les différents profits seront abordés plus tard, dans un autre chapitre de ce travail.
 
 
-Des conseils pour prévenir une faille zéro day
-==============================================
+La chronologie d'une faille zéro day
+====================================
+Certains chercheurs se sont penchés précisément sur le déroulement général lors de l'exploitation d'une telle faille et ont noté la présence 
+de sept étapes distinctes :
 
-
-
+1) L'introduction de la vulnérabilité
+ L'éditeur du système introduit sans le vouloir une erreur dans celui-ci.
+2) La publication du kit d'exploit zéro day
+ Une personne mal intentionnée ayant des connaissances en informatique découvre la faille et prépare, de son côté, un kit complet
+ permettant l'exploitation, autrement dit un code d'exploitation alors que la vulnérabilité est encore ouverte (non corrigée).
+3) La découverte de la faille 
+ L'éditeur ou le développeur se rend compte de la vulnérabilité ainsi que de son exploitation.
+ Puis, il l'identifie correctement.
+4)
 
 
 
