@@ -27,7 +27,7 @@ Le terme "zéro day" ne qualifie pas la gravité de la faille qui dépend fortem
 Cette vulnérabilité existe, or elle n'est pas reconnue.
 Par conséquent, dès l'instant où la faille est identfiée et qu'un correctif est ou peut être mis en place, la vulnérabilité n'est plus considérée comme zéro day.
 
-La dangerosité de ces failles réside bien évidemment dans le fait qu'elle peut être à tout moment exploitée par une personne malintentionnée puisqu'aucune correction n'est disponible à ce moment.
+La dangerosité de ces failles réside bien évidemment dans le fait qu'elles peuvent être à tout moment exploitées par une personne malintentionnée puisqu'aucune correction n'est disponible à ce moment.
 Il faut alors que ces erreurs soient identifiées et corrigées dans les plus brefs délais, sans quoi le système est en proie à des exploits zéro day.
 Ces exploits sont des malwares développés par des cybercriminels qui exploitent cette vulnérabilité afin d'en tirer profit.
 
