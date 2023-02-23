@@ -6,7 +6,7 @@ Introduction
 
 De nos jours les systèmes informatiques sont absolument partout : dans nos maisons, dans nos écoles, dans nos entreprises, dans nos poches et même dans les locaux de notre Etat.
 Cette omniprésence est fortement liée à un intérêt énorme pour ces technologies dont nous sommes sûrement, l'ensemble de l'OC informatique et moi, de bons exemples.
-Cependant, plus nous nous intéressons à un sujet , mieux nous le comprenons et il peut arriver que des erreurs y soient trouvées.
+Cependant, plus nous nous intéressons à un sujet, mieux nous le comprenons et il peut arriver que des erreurs y soient trouvées.
 Ces erreurs peuvent être exploitées par des personnes malintentionnées que le grand public nomme hackers ou peuvent servir d'exemple afin de corriger toutes les faiblesses du même type.
 De plus, les enjeux d'une exploitation sont, de nos jours, plus que significatifs et rendent ainsi l'attention portée à ces faiblesses encore plus légitime.
 
