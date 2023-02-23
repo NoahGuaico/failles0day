@@ -33,8 +33,8 @@ Ces exploits sont des malwares développés par des cybercriminels qui exploiten
 Les différents profits seront abordés plus tard, dans un autre chapitre de ce travail.
 
 
-Certaines étapes pour trouver une faille zéro day
-=======================================
+Des conseils pour prévenir une faille zéro day
+==============================================
 
 
 
