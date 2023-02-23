@@ -29,7 +29,7 @@ Par conséquent, dès l'instant où la faille est identfiée et qu'un correctif 
 
 La dangerosité de ces failles réside bien évidemment dans le fait qu'elles peuvent être à tout moment exploitées par une personne malintentionnée puisqu'aucune correction n'est disponible à ce moment.
 Il faut alors que ces erreurs soient identifiées et corrigées dans les plus brefs délais, sans quoi le système est en proie à des exploits zéro day.
-Ces exploits sont des malwares développés par des cybercriminels qui exploitent cette vulnérabilité afin d'en tirer profit.
+Ces exploits sont des malwares développés par des cybercriminels qui exploitent cette vulnérabilité afin d'en tirer un quelconque profit.
 
 
 Etapes pour trouver une faille zéro day
