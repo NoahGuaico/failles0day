@@ -25,6 +25,8 @@ Les Failles zéros day
     connues.rst
 
     conclusion.rst
+   
+    .. peut-être ajouter un glossaire ?
 
     references.rst
 

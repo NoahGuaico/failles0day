@@ -14,7 +14,7 @@ Souvent, ces failles sont des défauts logiciels donc de programmation.
 Ainsi, ces problèmes liés au fonctionnement du logiciel sont normalement découverts, puis un correctif est mis en place. 
 Ceci est une des raisons pour lesquelles les mises à jour de logiciels existent, afin de modifier l'anomalie du logiciel et aussi de protéger contre l'exploitation possible de cette vulnérabilité que nous nommons exploit.
 
-Particularités de la faille zéro day
+Les particularités de la faille zéro day
 ====================================
 Si une faille est découverte dans un logiciel, elle peut très bien se retrouver dans nombreux d'autres logiciels.
 C'est pourquoi il existe un nombre incalculable de failles connues dont les correctifs existent.
@@ -30,9 +30,10 @@ Par conséquent, dès l'instant où la faille est identfiée et qu'un correctif 
 La dangerosité de ces failles réside bien évidemment dans le fait qu'elles peuvent être à tout moment exploitées par une personne malintentionnée puisqu'aucune correction n'est disponible à ce moment.
 Il faut alors que ces erreurs soient identifiées et corrigées dans les plus brefs délais, sans quoi le système est en proie à des exploits zéro day.
 Ces exploits sont des malwares développés par des cybercriminels qui exploitent cette vulnérabilité afin d'en tirer un quelconque profit.
+Les différents profits seront abordés plus tard, dans un autre chapitre de ce travail.
 
 
-Etapes pour trouver une faille zéro day
+Certaines étapes pour trouver une faille zéro day
 =======================================
 
 
