@@ -49,6 +49,22 @@ de sept étapes distinctes :
 4) La divulgation de la vulnérabilité
  Celui-ci ou des chercheurs en sécurité informatique font une annonce publique de la faille. 
  Tout le monde en connait alors l'existence, cybercriminels et utilisateurs du système compris. 
+5) La publication d'antivirus
+ Les attaquants ont déjà créé l'exploit zéro day, mais la faille a été identifiée,
+ alors les personnes éditant des antivirus se chargent de reconnaitre sa signature afin de créer la protection adéquate et de la publier.
+ (Cependant les cybercriminels peuvent toujours essayer de trouver de nouveaux moyens permetttant d'exploiter la vulnérabilité dans le système)
+6) La sortie d'un correctif
+ Pour remédier à cette faille, l'éditeur du système rend public un correctif.
+ Cette étape prend plus ou moins de temps selon l'importance que les fournisseurs donnent à la vulnérabilité mais aussi selon 
+ la difficulté de résolution du problème informatique.
+7) Extension du correctif de sécurité 
+ Le correctif se déploie théoriquement partout, chez tous les utilisateurs du produit fini.
+ Le temps que prend cette étape est souvent bien long, car il faut que chaque utilisateur obtienne et applique le dispositif correcteur.
+ En effet, dans le but de réduire la durée de cette étape, il faudrait que les individus utilisant un système activent les mises à jours automatiques pour celui-ci et
+ prêtent toujours une certaine attention aux notifications recommandant des mises à jours. 
+ 
+
+ 
 
 
 
