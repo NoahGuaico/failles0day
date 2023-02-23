@@ -46,7 +46,9 @@ de sept étapes distinctes :
 3) La découverte de la faille 
  L'éditeur ou le développeur se rend compte de la vulnérabilité ainsi que de son exploitation.
  Puis, il l'identifie correctement.
-4)
+4) La divulgation de la vulnérabilité
+ Celui-ci ou des chercheurs en sécurité informatique font une annonce publique de la faille. 
+ Tout le monde en connait alors l'existence, cybercriminels et utilisateurs du système compris. 
 
 
 
