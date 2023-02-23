@@ -8,6 +8,7 @@ De nos jours les systèmes informatiques sont absolument partout : dans nos mais
 Cette omniprésence est fortement liée à un intérêt énorme pour ces technologies dont nous sommes sûrement, l'ensemble de l'OC informatique et moi, de bons exemples.
 Cependant, plus nous nous intéressons à un sujet, mieux nous le comprenons et il peut arriver que des erreurs y soient trouvées.
 Ces erreurs peuvent être exploitées par des personnes malintentionnées que le grand public nomme hackers ou peuvent servir d'exemple afin de corriger toutes les faiblesses du même type.
+Ces vulnérabilités nous touchent absolument tous, or elles restent méconnues d'une certaine partie de la population.
 De plus, les enjeux d'une exploitation sont, de nos jours, plus que significatifs et rendent ainsi l'attention portée à ces faiblesses encore plus légitime.
 
 Nous nous intéresserons seulement dans ce travail aux failles que nous connaissons sous le nom de zéro day car ce sont celles dont nous entendons le plus parler et qui sont les plus intéressantes à traiter dû à leur caractère inédit.

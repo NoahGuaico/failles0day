@@ -2,6 +2,7 @@
 
 Définition d'une faille zéro day
 ################################
+Dans cette partie nous allons définir ce qu'est, à proprement parler, une faille zéro day afin que cela soit clair lorsque nous utiliserons ce terme dans le travail.
 
 Les vulnérabilités informatiques
 ==================================
