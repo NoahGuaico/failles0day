@@ -29,3 +29,10 @@ En exemple, le 21 septembre 2015, la société Zerodium promettait un million d'
 
 Les Bounty Programs
 ===================
+Face à des offres aussi alléchantes pour les hackers, les éditeurs de systèmes informatiques ont mené une réflexion proactive.
+C'est pourquoi ils ont créé leurs Bounty Programs qui, eux aussi, promettent une très belle prime à chaque personne découvrant une faille zéro day
+dans leurs systèmes.
+Pour pouvoir toucher cette prime, il faut fournir un dossier sérieux et vérifiable traitant de la faille découverte et bien sûr, le faire dans la plus grande discrétion.
+
+Les super-héros zéro day
+========================
