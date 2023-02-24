@@ -8,12 +8,13 @@ Les manières sombres
 ====================
 Les vraies manières malhonnêtes de gagner de l'argent avec ces failles sont celles qui s'octroient le droit d'exploiter la faiblesse informatique.
 En effet, les hackers, souvent, exploitent la faille zéro day afin de commettre un vol qui peut concerner les données mais qui peut aller jusqu'au matériel entier utilisant le système informatique. 
+
 Ces malfaiteurs revendent très chers les données à d'autres entreprises, nous pouvons directement penser au domaine de la publicité par exemple.
 Dans le cas où les cybercriminels obtiennent le contrôle total du matériel, un système de rançon ou de menaces peut se mettre en place et permettre à ceux-ci de gagner de grosses sommes.
 
 Le marché gris
 ===============
-S'il existe des manières totalement malhonnêtes de se faire de l'argent sur le dos des failles zéro day,
+S'il existe des manières totalement malhonnêtes de se faire de l'argent sur le dos des failles zéro day, 
 il existe aussi une zone floue, ni honorable ni réellement criminelle, un marché gris.
 Les entreprises issues de ce business gris n'ont pas pour clients d'autres entreprises mais plutôt des hackers et, aussi surprenant que cela puisse paraitre, des gouvernements.
 En effet, il existe deux situations principales :
@@ -36,3 +37,10 @@ Pour pouvoir toucher cette prime, il faut fournir un dossier sérieux et vérifi
 
 Les super-héros zéro day
 ========================
+Tels des super-héros ou des bons samaritains, 
+il existe des spécialistes de l'informatique ainsi que de sa sécurité qui oeuvrent secrètement mais aussi main dans la main avec les fournisseurs de systèmes
+informatiques. Effectivement, ceux-ci découvrent d'abord une faille zéro day, puis ils avertissent rapidement l'entreprise en danger et travaillent avec elle sur un correctif efficace
+pour la faille en question.
+Ce n'est qu'après la publication du correctif et sa mise en place que ces spécialistes rendent publique leur enquête.
+La plupart du temps, les entreprises les remercient de manière pécuniaire.
+C'est une méthode qui est, heureusement, assez fréquente de nos jours dans le domaine de la sécurité informatique.
