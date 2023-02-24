@@ -34,6 +34,7 @@ Face à des offres aussi alléchantes pour les hackers, les éditeurs de systèm
 C'est pourquoi ils ont créé leurs Bounty Programs qui, eux aussi, promettent une très belle prime à chaque personne découvrant une faille zéro day
 dans leurs systèmes.
 Pour pouvoir toucher cette prime, il faut fournir un dossier sérieux et vérifiable traitant de la faille découverte et bien sûr, le faire dans la plus grande discrétion.
+La prime peut être une somme d'argent, mais peut tout aussi bien être la gratuité ou certains avantages sur des services proposés par l'entreprises.
 
 Les super-héros zéro day
 ========================
