@@ -24,6 +24,30 @@ C'est une durée considérable permettant, suivant la gravité de la vulnérabil
 
 Stuxnet
 =======
+Ce ver informatique, autrement dit un logiciel malveillant se duplicant à chaque exécution, a été découvert à la mi-juin 
+2010 par VirusBlokada, une entreprise spécialisée dans la sécurité informatique. 
+Cependant, des traces de ce malware ont été retrouvées et dateraient de presque une année avant.
+S'attaquant aux systèmes Windows, ce ver n'utilisait pas moins de 4 failles zéro day telles que "CPLINK" ou des failles comme celle utilisée par le ver Conficker.
+
+De plus, celui-ci visait principalement les systèmes de l'entreprise Siemens qui est un grand groupe du secteur industriel 
+et particulièrement les filiales iraniennes
+puisque 30'000 des 45'000 infections ont eu lieu sur des systèmes en Iran.
+Afin d'attaquer ces systèmes, ce ver informatique mettait à jour sur les appareils cibles un virus dejà existant et présent sur ceux-ci, 
+puis en se servant de certains défauts innés dans la structure de ces systèmes, il contaminait bon nombre d'autres ordinateurs.
+À l'intérieur du système, il employait les mots de passe par défaut fortement recommandés par Siemens afin de pouvoir faire des requêtes logicielles.
+Celui-ci octroyait à l'attaquant le pouvoir de contrôler l'appareil et sa programmation.
+
+L'impact de ce malware a été considérable car la création d'un tel logiciel était tout bonnement inédite. 
+Personne n'avait jamais découvert d'exploit aussi complexe et de surcroît exploitant 4 vulnérabilités zéro day à la fois.
+Un aussi grand nombre de failles totalement inconnues, non corrigées et exploitables a surpris le monde de la sécurité informatique.
+Le développement de Stuxnet ne pouvait pas avoir été réalisé par le secteur privé car il était d'un niveau si élevé et le temps nécessaire à celui-ci était énorme. 
+En effet, l'entreprise Microsoft l'a estimé à environ "10'000 jours hommes".
+
+L'exploitation de ces failles a aussi eu un fort impact politique puisque, visant l'Iran, l'organisation américaine National Security Agency et l'unité israélienne 8200 ont été suspectées directement.
+Les doutes se sont répandus et ont été de plus en plus forts alors que d'autres États tels que la Russie se mêlaient . 
+Ainsi, au moment de son départ à la retraite, un général israélien du nom de Gabi Ashkenazi a avoué être un des responsables du ver Stuxnet ainsi que des attaques l'utilisant.
+
+
 
 
 Microsoft 2017
