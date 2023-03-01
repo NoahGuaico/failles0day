@@ -50,8 +50,27 @@ Ainsi, au moment de son départ à la retraite, un général israélien du nom d
 
 
 
-Microsoft 2017
-==============
+Word et FinFisher
+=================
+C'est en 2017 que l'entreprise FireEye a découvert une faille zéro day dans le logiciel nommé Word créé par Microsoft en 1983.
+Le nom de cette faille est CVE-2017-8759 et celle-ci a été utilisée dans de nombreuses attaques ciblées durant l'année 2017. 
+Les attaques exploitant cette faille semblaient plutôt viser les russophones car le nom du fichier Word malveillant et infecté était "Проект.doc". 
+
+Ce fichier, pour autant qu'il soit téléchargé puis ouvert sur un ordinateur, téléchargeait lui même du contenu sur l'appareil. 
+Celui-ci se chargait notamment de charger un célèbre malware appelé FinFisher, FINSPY ou encore WingBird.
+Cette action était possible, car CVE-2017-8759 est une vulnérabilité en relation avec une mauvaise validation dans une analyse 
+du Web Services Description Language (WSDL) et permettait alors d'injecter du code arbitraire afin de l'exécuter par la suite.
+Cette faille accompagnée du logiciel malveillant FinFisher a donc permis à certains hackers de récupérer des informations de connexion pour les services bancaires ou d'accéder à d'autres données sensibles 
+présentes sur les ordinateurs. 
+Ce sont aussi des raisons qui font que les attaques l'exploitant ont été suspectées d'avoir été menées initialement par un État-Nation dans le but d'espionner une organisation russophone.
+
+L'impact de cette faiblesse était notoire et dû à la diffusion phénoménale de celle-ci. 
+En effet, cette faille se trouvait dans un des logiciels Microsoft les plus vendus au monde. 
+Les documents Word étaient déjà répandus dans le monde entier par milliards à cette époque, c'est pourquoi exploiter une faille présente dans ceux-ci pouvait non seulement toucher un nombre inimaginable de personnes 
+mais aussi provoquer des dégâts conséquents de tous genres. 
+La faille a été découverte en septembre, or nous avons retrouvé des traces d'exploitations remontant jusqu'à juillet de la même année.
+Ainsi, durant presque 3 mois de nombreux crimes ont été commis par le biais de cette vulnérabilité.
+
 
 
 
