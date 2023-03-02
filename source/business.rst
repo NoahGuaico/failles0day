@@ -40,7 +40,7 @@ Les super-héros zéro day
 ========================
 Tels des super-héros ou des bons samaritains, 
 il existe des spécialistes de l'informatique ainsi que de sa sécurité qui oeuvrent secrètement mais aussi main dans la main avec les fournisseurs de systèmes
-informatiques. Effectivement, ceux-ci découvrent d'abord une faille zéro day, puis ils avertissent rapidement l'entreprise en danger et travaillent avec elle sur un correctif efficace
+informatiques. Effectivement, communément appelé White hats, ceux-ci découvrent d'abord une faille zéro day, puis ils avertissent rapidement l'entreprise en danger et travaillent avec elle sur un correctif efficace
 pour la faille en question.
 Ce n'est qu'après la publication du correctif et sa mise en place que ces spécialistes rendent publique leur enquête.
 La plupart du temps, les entreprises les remercient de manière pécuniaire.
