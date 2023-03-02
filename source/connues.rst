@@ -72,10 +72,32 @@ La faille a été découverte en septembre, or nous avons retrouvé des traces d
 Ainsi, durant presque 3 mois de nombreux crimes ont été commis par le biais de cette vulnérabilité.
 
 
-
-
 Zoom 2020
 =========
+La compagnie de sécurité 0patch a remarqué aux alentours de juillet 2020 une faille de type zéro day dans le logiciel de vidéoconférence que certains ont connu grâce au confinement de cette même année, Zoom.
+Cette faiblesse ne concernait que les utilisateurs sous Windows bien qu'ils représentent la grande majorité de ceux-ci.
+Une des fondatrices de l'entreprise ayant fait la découverte avait déclaré que cette vulnérabilité permettait l'exécution 
+à distance d'un code arbitraire (Remote Control Execution)sans que l'utilisateur ne soit aucunement averti, car 
+aucun message d'alerte ne s'affichait.
+
+Les attaques ne pouvaient cependant être lancées que sur des appareils possédant un système d'exploitation Windows 7 ou 
+une version antérieure. 
+0patch a décrété, dès la découverte, que même les ordinateurs sous Windows 7 étant à jour au niveau de la sécurité pouvaient être victimes de ce type d'attaque 
+puisque qu'aucun correctif n'était alors connu ou mis en place. Ce qui prouve que nous sommes vraiment dans le cas zéro day.
+Aussi, les exploits pouvant être créé nécessitaient un de clicker sur un lien malveillant ou alors d'ouvrir un fichier frauduleux, ce qui a très légèrement réduit les chances de réussites des malwares exploitant la faille.
+Nous n'avons à ce jour pas trouvé de traces d'exploitation de cette faille. 
+Or, il a été confirmé qu'un malware développé exploitant cette faiblesse aurait permis à l'attaquant de prendre le contrôle total et à distance de l'ordinateur de la victime si elle était administratrice de celui-ci.
+
+L'impact de cette vulnérabilité a été quelque peu différent, car il a été sourtout psychologique et ce pour deux raisons.
+La première est que Zoom est une application relativement récente car elle a été commercialisée en 2012. 
+Ainsi savoir qu'une application jeune, dynamique et qui devait être à la page au niveau sécurité était aussi vulnérable a été déroutant.
+De plus, une application qui a connu un tel boom de téléchargement en 2020, puisque nous estimions l'augmentation des clients payants à 354% en juin 2020, se devait de garantir une certaine protection pour ses clients répartis dans le monde.
+Un autre impact psychologique a été le sentiment de menace dans un contexte de tension. 
+En effet, c'est en plein confinement dans une atmosphère plus que tendue à cause du COVID-19 que vient s'ajouter la menace d'une attaque dangereuse par 
+le biais d'une application très utilisée. 
+
+
+
 
 
 Log4shell
