@@ -97,8 +97,11 @@ En effet, c'est en plein confinement dans une atmosphère plus que tendue à cau
 le biais d'une application très utilisée. 
 
 
-
-
-
 Log4shell
 =========
+Décrite par Lunasec comme un échec dans la conception ayant des proportions catastrophiques, et aussi par Tenable comme 
+la plus importante et critique des failles de la décennie, Log4shell ou CVE-2021-44228 a été découverte par une entreprise chinoise de sécurité informatique nommée Alibaba 
+en fin d'année 2021. 
+Cette vulnérabilité concerne l'utilitaire de Java appelé Log4j faisant partie d'un projet de la fondation Apache. 
+Ce framework opensource sert à la journalisation d'un très grand nombre d'applications. 
+Nous pensons notamment à certains logiciels de bureautique, aux systèmes embarqués de certaines voitures, à iCloud ou encore à Steam, la plateforme de jeux vidéos.
