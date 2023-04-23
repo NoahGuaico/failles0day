@@ -13,8 +13,8 @@ Ce qui ne devait être qu'un deuxième mardi de chaque mois comme les autres est
 Et cela dure depuis la publication du logiciel Windows 98 daté de l'année éponyme.
 Ce qui est intéressant avec cette politique, ce sont les conséquences en matière de sûreté informatique.
 
-C'est un parti pris dont l'atout principal est le fait d'être régulier afin que les clients puissent suivre rythme et se tenir relativement à jour car c'est un rendez-vous attendu.
-Toutefois, son rythme qui ne varie point peut aussi lui faire défaut.
+C'est un parti pris dont l'atout principal est le fait d'être régulier, afin que les clients puissent suivre le rythme et se tenir relativement à jour, car c'est un rendez-vous attendu.
+Toutefois, son rythme qui ne varie point peut aussi lui porter préjudice.
 Effectivement, cette régularité presque immuable est lourde de conséquences et part du principe que le risque de faille zéro day dans le système n'est 
 pas suffisamment élevé pour en tenir réellement compte.
 Or, s'il s'avère qu'un cybercriminel trouve une faiblesse dans un logiciel de l'entreprise Microsoft et qu'il parvient à coder un malware exploitant la faille,
@@ -60,30 +60,30 @@ Ce fichier, pour autant qu'il soit téléchargé puis ouvert sur un ordinateur, 
 Celui-ci se chargait notamment de charger un célèbre malware appelé FinFisher, FINSPY ou encore WingBird.
 Cette action était possible, car CVE-2017-8759 est une vulnérabilité en relation avec une mauvaise validation dans une analyse 
 du Web Services Description Language (WSDL) et permettait alors d'injecter du code arbitraire afin de l'exécuter par la suite.
-Cette faille accompagnée du logiciel malveillant FinFisher a donc permis à certains hackers de récupérer des informations de connexion pour les services bancaires ou d'accéder à d'autres données sensibles 
+Cette faille, accompagnée du logiciel malveillant FinFisher, a donc permis à certains hackers de récupérer des informations de connexion pour les services bancaires ou d'accéder à d'autres données sensibles 
 présentes sur les ordinateurs. 
-Ce sont aussi des raisons qui font que les attaques l'exploitant ont été suspectées d'avoir été menées initialement par un État-Nation dans le but d'espionner une organisation russophone.
+Ce sont aussi des raisons qui font que les attaques ayant exploité cette faille ont été suspectées d'avoir été menées initialement par un État-Nation dans le but d'espionner une organisation russophone.
 
 L'impact de cette faiblesse était notoire et dû à la diffusion phénoménale de celle-ci. 
 En effet, cette faille se trouvait dans un des logiciels Microsoft les plus vendus au monde. 
-Les documents Word étaient déjà répandus dans le monde entier par milliards à cette époque, c'est pourquoi exploiter une faille présente dans ceux-ci pouvait non seulement toucher un nombre inimaginable de personnes 
-mais aussi provoquer des dégâts conséquents de tous genres. 
-La faille a été découverte en septembre, or nous avons retrouvé des traces d'exploitations remontant jusqu'à juillet de la même année.
-Ainsi, durant presque 3 mois de nombreux crimes ont été commis par le biais de cette vulnérabilité.
+Les documents Word étaient déjà répandus dans le monde entier par milliards à cette époque. C'est pourquoi, exploiter une faille présente dans ceux-ci pouvait non seulement toucher un nombre inimaginable de personnes 
+mais aussi provoquer des dégâts conséquents en tous genres. 
+La faille a été découverte en septembre. Or nous avons retrouvé des traces d'exploitations remontant jusqu'à juillet de la même année.
+Ainsi, durant presque 3 mois, de nombreux crimes ont été commis par le biais de cette vulnérabilité.
 
 
 Zoom 2020
 =========
 La compagnie de sécurité 0patch a remarqué aux alentours de juillet 2020 une faille de type zéro day dans le logiciel de vidéoconférence que certains ont connu grâce au confinement de cette même année, Zoom.
-Cette faiblesse ne concernait que les utilisateurs sous Windows bien qu'ils représentent la grande majorité de ceux-ci.
+Cette faiblesse ne concernait que les utilisateurs sous Windows qui représentent, en fait, la grande majorité des clients de Zoom.
 Une des fondatrices de l'entreprise ayant fait la découverte avait déclaré que cette vulnérabilité permettait l'exécution 
-à distance d'un code arbitraire (Remote Control Execution)sans que l'utilisateur ne soit aucunement averti, car 
+à distance d'un code arbitraire (Remote Control Execution) sans que l'utilisateur ne soit aucunement averti, car 
 aucun message d'alerte ne s'affichait.
 
 Les attaques ne pouvaient cependant être lancées que sur des appareils possédant un système d'exploitation Windows 7 ou 
 une version antérieure. 
 0patch a décrété, dès la découverte, que même les ordinateurs sous Windows 7 étant à jour au niveau de la sécurité pouvaient être victimes de ce type d'attaque 
-puisque qu'aucun correctif n'était alors connu ou mis en place. Ce qui prouve que nous sommes vraiment dans le cas zéro day.
+puisque qu'aucun correctif n'était alors connu ou mis en place. Cela prouve que nous sommes vraiment dans le cas zéro day.
 Aussi, les exploits pouvant être créé nécessitaient un de clicker sur un lien malveillant ou alors d'ouvrir un fichier frauduleux, ce qui a très légèrement réduit les chances de réussites des malwares exploitant la faille.
 Nous n'avons à ce jour pas trouvé de traces d'exploitation de cette faille. 
 Or, il a été confirmé qu'un malware développé exploitant cette faiblesse aurait permis à l'attaquant de prendre le contrôle total et à distance de l'ordinateur de la victime si elle était administratrice de celui-ci.
@@ -102,7 +102,7 @@ Log4shell
 Décrite par Lunasec comme un échec dans la conception ayant des proportions catastrophiques, et aussi par Tenable comme 
 la plus importante et critique des failles de la décennie, Log4shell ou CVE-2021-44228 a été découverte par une entreprise chinoise de sécurité informatique nommée Alibaba 
 en fin d'année 2021. 
-Cette vulnérabilité concernait l'utilitaire de Java appelé Log4j faisant partie d'un projet de la fondation Apache. 
+Cette vulnérabilité concernait la bibliothèque de Java appelé Log4j faisant partie d'un projet de la fondation Apache. 
 Ce framework opensource sert à la journalisation d'un très grand nombre d'applications. 
 Nous pensons notamment à certains logiciels de bureautique, aux systèmes embarqués de certaines voitures, à iCloud ou encore à Steam, la plateforme de jeux vidéos.
 
@@ -116,11 +116,11 @@ Les cas d'exploitation ont été particulièrement nombreux et lourds de conséq
 C'est aussi une des raisons pour lequelles l'Apache Software Foundation a attribué la note CVSS qui mesure la dangerosité ou criticité de la faille de 10, autrement dit la note maximale.
 
 L'impact provoqué par cette faiblesse informatique a été gigantesque. Effectivement, les appareils vulnérables étaient répandus 
-dans le monde entier à cause de l'immense popularité d'Apache, ils se comptaient alors en centaine de millions.
+dans le monde entier à cause de l'immense popularité d'Apache, et se comptaient par centaines de millions.
 Le caractère extrêmement critique de la faille ainsi que sa diffusion dans le monde ont même poussé certaines organisations nationales de cybersécurité à avertir les habitants 
 et entreprises de leur pays ainsi qu'à
-prendre certaines mesures. Citons alors la CISA (Cybersecurity and Infrastructure Security Agency) pour les USA, le NCSC (National Cyber Security Center) pour le Royaume-Uni, ainsi que 
+prendre certaines mesures. Citons la CISA (Cybersecurity and Infrastructure Security Agency) pour les USA, le NCSC (National Cyber Security Center) pour le Royaume-Uni, ainsi que 
 le CCCS (Canadian Center for Cyber Security) pour le Canada. Ce dernier a conseillé aux organisations de prendre des mesures immédiates. 
-À titre d'exemple, le gouvernement du Québec, par prévention, a fermé non loin de 4'000 sites internet. 
+À titre d'exemple, le gouvernement du Québec, par prévention, a fermé non loin de 4'000 sites Web. 
 C'est ainsi que le monde entier a été invité à mettre à jour ses logiciels le plus rapidement possible 
 lorsque le correctif a été mis en place le 6 décembre 2021.
