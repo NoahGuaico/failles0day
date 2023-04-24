@@ -99,28 +99,28 @@ le biais d'une application très utilisée.
 
 Log4shell
 =========
-Décrite par Lunasec comme un échec dans la conception ayant des proportions catastrophiques, et aussi par Tenable comme 
-la plus importante et critique des failles de la décennie, Log4shell ou CVE-2021-44228 a été découverte par une entreprise chinoise de sécurité informatique nommée Alibaba 
+Décrite par Lunasec comme un échec dans la conception ayant des proportions catastrophiques :cite:p:`wired:internet_on_fire`, et aussi par Tenable comme 
+la plus importante et critique des failles de la décennie :cite:p:`guardian:most_critical`, Log4shell ou CVE-2021-44228 a été découverte par une entreprise chinoise de sécurité informatique nommée Alibaba 
 en fin d'année 2021. 
 Cette vulnérabilité concernait la bibliothèque de Java appelé Log4j faisant partie d'un projet de la fondation Apache. 
 Ce framework opensource sert à la journalisation d'un très grand nombre d'applications. 
 Nous pensons notamment à certains logiciels de bureautique, aux systèmes embarqués de certaines voitures, à iCloud ou encore à Steam, la plateforme de jeux vidéos.
 
-Cette faille était en relation avec les requêtes LDAP ou JNDI. 
+Cette faille était en relation avec les requêtes LDAP ou JNDI :cite:p:`pcmag:jndi, arstech:log4`. 
 En effet, le logiciel ne prenait pas en compte ce type de requêtes concernant les annuaires. 
 Par ce biais, l'attaquant pouvait injecter du code Java arbitraire sur un ordinateur ou un appareil qui établissait une connexion vers un serveur contrôlé par un tiers.
 Il est assez évident que l'exécution de ce code pouvait se faire à distance, augmentant ainsi les risques d'infection. 
 Alors, depuis n'importe où dans le monde, un hacker pouvait bénéficier d'un accès au système qui était complet.
 Cette faille permettait plusieurs exploits tels que des Ransomware ou des DoS (Denial of Service) de réseau. 
 Les cas d'exploitation ont été particulièrement nombreux et lourds de conséquences.
-C'est aussi une des raisons pour lequelles l'Apache Software Foundation a attribué la note CVSS qui mesure la dangerosité ou criticité de la faille de 10, autrement dit la note maximale.
+C'est aussi une des raisons pour lequelles l'Apache Software Foundation a attribué la note CVSS qui mesure la dangerosité ou criticité de la faille de 10, autrement dit la note maximale :cite:p:`apache:log4`.
 
 L'impact provoqué par cette faiblesse informatique a été gigantesque. Effectivement, les appareils vulnérables étaient répandus 
 dans le monde entier à cause de l'immense popularité d'Apache, et se comptaient par centaines de millions.
 Le caractère extrêmement critique de la faille ainsi que sa diffusion dans le monde ont même poussé certaines organisations nationales de cybersécurité à avertir les habitants 
 et entreprises de leur pays ainsi qu'à
 prendre certaines mesures. Citons la CISA (Cybersecurity and Infrastructure Security Agency) pour les USA, le NCSC (National Cyber Security Center) pour le Royaume-Uni, ainsi que 
-le CCCS (Canadian Center for Cyber Security) pour le Canada. Ce dernier a conseillé aux organisations de prendre des mesures immédiates. 
+le CCCS (Canadian Center for Cyber Security) pour le Canada. Ce dernier a conseillé aux organisations de prendre des mesures immédiates :cite:p:`canadian:log4`. 
 À titre d'exemple, le gouvernement du Québec, par prévention, a fermé non loin de 4'000 sites Web. 
 C'est ainsi que le monde entier a été invité à mettre à jour ses logiciels le plus rapidement possible 
 lorsque le correctif a été mis en place le 6 décembre 2021.
