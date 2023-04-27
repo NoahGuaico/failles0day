@@ -24,6 +24,8 @@ Les Failles zéros day
 
     connues.rst
 
+    video.rst
+
     conclusion.rst
    
     .. peut-être ajouter un glossaire ?
