@@ -7,12 +7,14 @@ L'expansion de ce concours donne lieu à un réel marché de la vulnérabilité 
 Les manières sombres
 ====================
 Les vraies manières malhonnêtes de gagner de l'argent avec ces failles sont celles qui s'octroient le droit d'exploiter la faiblesse informatique.
-En effet, les hackers, souvent, exploitent la faille zéro day afin de commettre un vol qui peut concerner les données mais qui peut aller jusqu'au matériel entier utilisant le système informatique 
-comme une voiture ou encore un robot.
+En effet, les hackers, souvent, exploitent la faille zéro day afin de commettre un vol qui peut concerner des données, de l'argent, mais qui peut aussi aller jusqu'au matériel entier utilisant le système informatique 
+comme une voiture ou encore un robot. 
 
-Ces malfaiteurs revendent très chers les données à d'autres entreprises. Nous pouvons directement penser au domaine de la publicité par exemple.
-Dans le cas où les cybercriminels obtiennent le contrôle total du matériel, un système de rançon ou de menaces peut se mettre en place et permettre à ceux-ci de gagner de grosses sommes. 
-Un hackeur voleur de voitures pourrait, par exemple, prendre le contrôle de la voiture par son système informatique pour la ramener dans un certain lieu et la revendre dans un autre pays par la suite.
+Ces malfaiteurs revendent très chers les données à d'autres entreprises qui désirent les utiliser. Nous pouvons directement penser au domaine de la publicité par exemple.
+Dans le cas où les cybercriminels obtiennent le contrôle total du matériel qui peut être un véhicule, un téléphone ou bien simplement un ordinateur, un système de rançon, de menaces ou de revente peut se mettre en place et permettre à ceux-ci de gagner de grosses sommes. 
+Un hackeur voleur de voitures pourrait, par exemple, prendre le contrôle d'une voiture par son système informatique pour l'amener dans un certain lieu et la vendre dans un autre pays par la suite. 
+Cet exemple est on ne peut plus réaliste car c'est exactement ce qui se passe actuellement en Europe ou ailleurs et nous pouvons même citer
+les autorités françaises qui ont démantelé récemment un grand réseau criminel de vol de voitures par voie informatique :cite:p:`futura:sombre`.
 
 Le marché gris
 ===============
