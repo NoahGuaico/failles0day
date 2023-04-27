@@ -35,8 +35,8 @@ Les différents types de profits seront abordés plus tard, dans un autre chapit
 
 La chronologie d'une faille zéro day
 ====================================
-Certains chercheurs se sont penchés précisément sur le déroulement général lors de l'exploitation d'une telle faille et ont noté la présence 
-de sept étapes distinctes :
+Certains chercheurs, notamment Leyla Bilge et Tudor Dumitras, se sont penchés précisément sur le déroulement général lors de l'exploitation d'une telle faille et ont noté la présence 
+de sept étapes distinctes :cite:p:`titan:steps`:
 
 1) L'introduction de la vulnérabilité
  L'éditeur du système introduit sans le vouloir une erreur dans celui-ci.
