@@ -18,12 +18,14 @@ Le marché gris
 ===============
 S'il existe des manières totalement malhonnêtes de se faire de l'argent sur le dos des failles zéro day, 
 il existe aussi une zone floue, ni honorable ni réellement criminelle, à savoir un marché gris.
-Les entreprises issues de ce business gris n'ont pas pour clients d'autres entreprises mais plutôt des hackers et, aussi surprenant que cela puisse paraitre, des gouvernements.
+Les entreprises issues de ce business gris n'ont pas pour clients d'autres entreprises mais plutôt des hackers et, aussi surprenant que cela puisse paraitre, des gouvernements :cite:p:`greymarket:monde`.
 En effet, il existe deux situations principales :
 
-- L'entreprise met en relation un cybercriminel avec un service de renseignement, un service de police ou un gouvernement. Puis, celle-ci prend un pourcentage sur la vente de la faille, autrement dit une partie de la transaction lui revient.
+- L'entreprise met en relation un cybercriminel avec un service de renseignement, un service de police ou un gouvernement. Puis, celle-ci prend un pourcentage sur la vente de la faille, autrement dit une partie de la transaction lui revient. Le journal Forbes a recueilli en 2012 le témoignage d'un hacker qui disait tirer 80 % de ses revenus de son travail avec les États-Unis :cite:p:`grugq:business`. 
 
-- La vulnérabilité et sa documentation sont achetées par l'entreprise qui se charge de les revendre encore plus chers à une organisation gouvernementale.
+
+- La vulnérabilité et sa documentation sont achetées par l'entreprise qui se charge de les revendre encore plus chers à une organisation gouvernementale. C'est ce qui s'est passé le 28 octobre 2013, lorsque Hacking Team a acheté pour 45'000$ une des failles du Hacker Vitaliy Toropov :cite:p:`vitaliy:business`.
+
 
 Ces failles permettent souvent la surveillance d'autres organisations et ainsi un espionnage par le biais de l'informatique.
 Il est ici question de sommes tout simplement colossales.
