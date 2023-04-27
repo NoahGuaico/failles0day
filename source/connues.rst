@@ -37,6 +37,16 @@ puis en se servant de certains défauts innés dans la structure de ces système
 À l'intérieur du système, il employait les mots de passe par défaut fortement recommandés par Siemens afin de pouvoir faire des requêtes logicielles.
 Celui-ci octroyait à l'attaquant le pouvoir de contrôler l'appareil et sa programmation.
 
+**Illustrations du fonctionnement**
+
+.. figure:: ./images/stuxnet.jpeg
+    :scale: 90%
+    :align: center
+
+.. figure:: ./images/stuxnet2.png
+    :width: 100%
+    :align: center
+
 L'impact de ce malware a été considérable car la création d'un tel logiciel était tout bonnement inédite. 
 Personne n'avait jamais découvert d'exploit aussi complexe et de surcroît exploitant 4 vulnérabilités zéro day à la fois :cite:p:`stuxnet:4vul`.
 Un aussi grand nombre de failles totalement inconnues, non corrigées et exploitables a surpris le monde de la sécurité informatique.
@@ -59,7 +69,12 @@ Les attaques exploitant cette faille semblaient plutôt viser les russophones ca
 Ce fichier, pour autant qu'il soit téléchargé puis ouvert sur un ordinateur, téléchargeait lui même du contenu sur l'appareil. 
 Celui-ci se chargait notamment de charger un célèbre malware appelé FinFisher, FINSPY ou encore WingBird.
 Cette action était possible, car CVE-2017-8759 est une vulnérabilité en relation avec une mauvaise validation dans une analyse 
-du Web Services Description Language (WSDL) et permettait alors d'injecter du code arbitraire afin de l'exécuter par la suite.
+du Web Services Description Language (WSDL) et permettait alors d'injecter du code arbitraire afin de l'exécuter par la suite. 
+
+.. figure:: ./images/word2017.png
+   :width: 100 %
+   :align: center
+
 Cette faille, accompagnée du logiciel malveillant FinFisher, a donc permis à certains hackers de récupérer des informations de connexion pour les services bancaires ou d'accéder à d'autres données sensibles 
 présentes sur les ordinateurs. 
 Ce sont aussi des raisons qui font que les attaques ayant exploité cette faille ont été suspectées d'avoir été menées initialement par un État-Nation dans le but d'espionner une organisation russophone.
@@ -96,6 +111,9 @@ Un autre impact psychologique a été le sentiment de menace dans un contexte de
 En effet, c'est en plein confinement dans une atmosphère plus que tendue à cause du COVID-19 que vient s'ajouter la menace d'une attaque dangereuse par 
 le biais d'une application très utilisée. 
 
+.. figure:: ./images/zoom.png
+    :scale: 90%
+    :align: center
 
 Log4shell
 =========
@@ -114,6 +132,16 @@ Alors, depuis n'importe où dans le monde, un hacker pouvait bénéficier d'un a
 Cette faille permettait plusieurs exploits tels que des Ransomware ou des DoS (Denial of Service) de réseau. 
 Les cas d'exploitation ont été particulièrement nombreux et lourds de conséquences.
 C'est aussi une des raisons pour lequelles l'Apache Software Foundation a attribué la note CVSS qui mesure la dangerosité ou criticité de la faille de 10, autrement dit la note maximale :cite:p:`apache:log4`.
+
+**Illustrations du fonctionnement**
+
+.. figure:: ./images/log4illustration.jpeg
+    :scale: 50%
+    :align: center
+
+.. figure:: ./images/log4shell2.png
+    :scale: 70%
+    :align: center
 
 L'impact provoqué par cette faiblesse informatique a été gigantesque. Effectivement, les appareils vulnérables étaient répandus 
 dans le monde entier à cause de l'immense popularité d'Apache, et se comptaient par centaines de millions.
