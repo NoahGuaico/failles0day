@@ -4,6 +4,11 @@ Les problèmes de l'open source
 
 Le principe de l'open source
 ============================
+
+.. figure:: ./images/logoopen.png
+    :scale: 80%
+    :align: center
+
 Lorsqu'un ingénieur en informatique ou un programmeur conçoit un logiciel ou une partie de celui-ci et qu'il fait le choix 
 d'accorder l'accès au code qu'il a créé à quiconque le désirant, nous appelons cela du "open source" qui, traduit de l'anglais, veut dire source ouverte. 
 Cette ouverture envers le reste du monde, et précisément envers les confrères travaillant dans le même domaine, permet à un autre programmeur
