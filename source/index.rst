@@ -24,6 +24,8 @@ Les Failles zéros day
 
     connues.rst
 
+    opensource.rst
+
     video.rst
 
     conclusion.rst
