@@ -12,11 +12,13 @@ Ces vulnérabilités nous touchent absolument tous, or elles restent méconnues 
 De plus, les enjeux d'une exploitation sont, de nos jours, plus que significatifs et rendent ainsi l'attention portée à ces faiblesses encore plus légitime.
 
 Nous nous intéressons seulement dans ce travail aux failles connues sous le nom de "zéro day", car ce sont celles dont nous, le grand public, entendons le plus parler et qui sont les plus intéressantes à traiter en raison de leur caractère inédit.
-Il s'agira donc de montrer les rouages de ces failles complexes.
-Nous passerons de la définition des cas où nous parlons de failles zéro day au étapes de la recherche de celles-ci.
-Puis nous nous intéresserons au business créé par ces failles et ses principes en abordant les modèles commerciaux légaux mais aussi ceux qui, à l'inverse, ne le sont aucunement.
-Ensuite, nous détaillerons certaines vulnérabilités zéro day connues en exposant à chaque fois les contextes de découverte ainsi que d'utilisation.
-Tout cela nous donne l'opportunité, juste avant de conclure, d'arriver au tournant de ce travail qui est un exemple vidéo d'exploitation d'une des failles désormais connues.
+Il s'agit donc de montrer les rouages de ces failles complexes.
+Nous passons de la définition des cas où nous parlons de failles zéro day au étapes de la recherche de celles-ci.
+Puis nous nous intéressons au business créé par ces failles et ses principes en abordant les modèles commerciaux légaux mais aussi ceux qui, à l'inverse, ne le sont aucunement.
+Ensuite, nous détaillons certaines vulnérabilités zéro day connues en exposant à chaque fois les contextes de découverte ainsi que d'utilisation. 
+Nous abordons aussi les problèmes liés à ce que nous appelons l'open source.
+Tout cela nous donne l'opportunité d'arriver au tournant de ce travail qui est un exemple vidéo d'exploitation d'une des failles désormais connues.
+Ensuite, juste avant de conclure, nous partageons quelques conseils afin de se protéger au mieux de ces vulnérabilités.
 
 
 
