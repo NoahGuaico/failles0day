@@ -93,6 +93,7 @@ html_theme_options = {
     "repository_url": infos.repository_url,
     # "use_issues_button": True,
     "use_edit_page_button": True,
+    "use_sidenotes": True,
 }
 
 

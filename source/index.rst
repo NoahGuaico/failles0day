@@ -28,6 +28,8 @@ Les Failles zéros day
 
     video.rst
 
+    protection.rst
+
     conclusion.rst
    
     .. peut-être ajouter un glossaire ?
