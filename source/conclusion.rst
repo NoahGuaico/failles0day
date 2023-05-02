@@ -20,7 +20,7 @@ Pour illustrer ce propos, il est intéressant de savoir qu'une IA, basée sur l'
 De plus, cette IA a obtenu un taux de faux positifs assez remarquable de 0,012% :cite:p:`SD:botnet`. 
 Il existe en réalité énormément de travaux de chercheurs qui ont utilisé soit le *Machine Learning* soit le *Deep Neural Network* pour leur détection d'exploits zéro day, autrement dit d'attaques exploitant des failles zéro day. 
 Nous pouvons donc affirmer, qu'avec son développement grandissant, l'IA sera un atout majeur dans la lutte contre les attaques zéro day.
-À titre indicatif, le tableau ci-dessous recense les analyses des différentes techniques de détection.
+À titre indicatif, le tableau ci-dessous recense les analyses des différentes techniques de détection :cite:p:`electronics:zeroday`.
 
 .. figure:: ./images/analysis.png
     :scale: 60%
