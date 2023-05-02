@@ -51,3 +51,16 @@ pour la faille en question.
 Ce n'est qu'après la publication du correctif et sa mise en place que ces spécialistes rendent publique leur enquête.
 La plupart du temps, les entreprises les remercient de manière pécuniaire.
 C'est une méthode qui est, heureusement, assez fréquente de nos jours dans le domaine de la sécurité informatique.
+
+**Les chercheurs en sécurité informatique**
+
+Certaines personnes sont formées et consacrent leur vie à la sécurité informatique.
+Souvent employés par des entreprises ou des gouvernements, ces chercheurs sont payés pour anticiper, en cherchant à découvrir toutes les failles d'un système informatique, les attaques des hackers.
+Il est alors logique que c'est un métier qui débouche bien fréquemment sur la découverte d'une vulnérabilité zéro day. 
+Parmis les chercheurs célèbres ayant détecté de grandes failles, nous pouvons citer :
+
+#. Chen Zhaojun pour Log4shell
+
+#. Sergey Ulagen pour Stuxnet
+
+#. Eugene Kasperky pour Cascade
