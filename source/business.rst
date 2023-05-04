@@ -1,3 +1,5 @@
+
+.. _business.rst:
 Le business de la faille zéro day
 #################################
 Depuis la démocratisation de l'informatique en général, de plus en plus de personnes possèdent des capacités pointues en informatique.

@@ -1,4 +1,5 @@
 
+.. _protection.rst:
 Comment se protéger ?
 #####################
 

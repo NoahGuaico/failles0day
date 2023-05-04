@@ -1,4 +1,5 @@
 
+.. _opensource.rst:
 Les problèmes de l'open source
 ###########################
 

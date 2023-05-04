@@ -1,3 +1,5 @@
+
+.. _connues.rst:
 Les failles zéro day connues
 ############################
 Dans cette partie nous allons détailler un certain nombre de failles zéro day qui ont fait l'actualité durant ces dernières années, en abordant le contexte de découverte ainsi que le contexte d'utilisation et leur impact sur le monde informatique.
