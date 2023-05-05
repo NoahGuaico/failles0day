@@ -19,7 +19,10 @@ Ces failles connues ont été précédées d'un concept propre aux failles qui a
 Comme certains exemples soulevaient la :ref:`question de l'open source <opensource.rst>` et de sa disposition aux failles zéro day, 
 le travail a débouché sur une partie exposant non seulement les principes de l'open source, mais encore tous les problèmes engendrés ceux-ci au niveau des vulnérabilités informatiques. 
 
-Pour finir, après avoir parlé des immenses risques et de la dangerosité de ces failles, il a été choisi, dans le but de rassurer quiconque lirait ce travail, de présenter 
+Afin de donner du poids à nos exemples, mais aussi de prouver que les failles sont très courantes, nous avons proposé une :ref:`vidéo explicative <video.rst>`  d'exploitation d'une faille 
+qui donne l'accès total à un ordinateur sous Windows 7.
+
+Pour finir, après avoir démontré les immenses risques et la dangerosité de ces failles, il a été choisi, dans le but de rassurer quiconque lirait ce travail, de présenter 
 quelques :ref:`conseils pour se protéger <protection.rst>` au maximum de l'exploitation d'une vulnérabilité zéro day.
 
 

@@ -1,4 +1,5 @@
-.. video.rst:
+
+.. _video.rst:
 Vidéo d'exploitation
 ####################
 
