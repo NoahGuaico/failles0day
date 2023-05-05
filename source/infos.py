@@ -8,7 +8,7 @@ class DocumentInfos:
     month = u'Février'
     seminary_title = u'Travail personnel OCI'
     tutor = u"Cédric Donner"
-    release = "première version"
+    release = "version finale"
     repository_url = "https://github.com/<username>/<reponame>"
 
     @classmethod
