@@ -48,7 +48,7 @@ extensions = [
 ]
 
 # BibTeX 
-bibtex_bibfiles = ['books.bib', 'online.bib', 'articles.bib']
+bibtex_bibfiles = ['books.bib', 'online.bib', 'articles.bib','icono.bib']
 
 # spelling_lang='en_US'
 spelling_lang = "fr_FR"
@@ -92,8 +92,7 @@ html_theme_options = {
     "show_navbar_depth": 1,
     "repository_url": infos.repository_url,
     # "use_issues_button": True,
-    "use_edit_page_button": True,
-    "use_sidenotes": True,
+    "use_edit_page_button": True
 }
 
 
