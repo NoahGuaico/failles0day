@@ -41,8 +41,11 @@ Nous pouvons donc affirmer, qu'avec son développement grandissant, l'IA sera un
 À titre indicatif, le tableau ci-dessous recense les analyses des différentes techniques de détection :cite:p:`electronics:zeroday`.
 
 .. figure:: ./images/analysis.png
+    :name: figure81
     :scale: 60%
     :align: center
+    
+    Liste d'analyses des méthodes de détection de faille zéro day :cite:p:`fig:figure81`
 
 
 
