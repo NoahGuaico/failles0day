@@ -110,7 +110,7 @@ latex_elements = {
     "date": infos.date(),
     "title": infos.title,
     "release": infos.release,
-    "releasename": "Gyminf",
+    "releasename": "",
     "fontpkg": "\\usepackage{times}",
     "babel": "\\usepackage[francais]{babel}",
     "preamble": r"""
