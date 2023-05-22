@@ -42,12 +42,19 @@ Celui-ci octroyait à l'attaquant le pouvoir de contrôler l'appareil et sa prog
 **Illustrations du fonctionnement**
 
 .. figure:: ./images/stuxnet.jpeg
+    :name: figure41
     :scale: 90%
     :align: center
+    
+    Schéma de fonctionnement de Stuxnet
 
 .. figure:: ./images/stuxnet2.png
+    :name: figure42
     :width: 100%
     :align: center
+
+    Schéma de fonctionnement de Stuxnet
+
 
 L'impact de ce malware a été considérable car la création d'un tel logiciel était tout bonnement inédite. 
 Personne n'avait jamais découvert d'exploit aussi complexe et de surcroît exploitant 4 vulnérabilités zéro day à la fois :cite:p:`stuxnet:4vul`.
