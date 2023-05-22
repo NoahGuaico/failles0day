@@ -81,6 +81,7 @@ Cette action était possible, car CVE-2017-8759 est une vulnérabilité en relat
 du Web Services Description Language (WSDL) et permettait alors d'injecter du code arbitraire afin de l'exécuter par la suite. 
 
 .. figure:: ./images/word2017.png
+   :name: figure43
    :width: 100 %
    :align: center
 
@@ -123,6 +124,7 @@ En effet, c'est en plein confinement dans une atmosphère plus que tendue à cau
 le biais d'une application très utilisée. 
 
 .. figure:: ./images/zoom.png
+    :name: figure44
     :scale: 90%
     :align: center
 
@@ -149,12 +151,14 @@ C'est aussi une des raisons pour lequelles l'Apache Software Foundation a attrib
 **Illustrations du fonctionnement**
 
 .. figure:: ./images/log4illustration.jpeg
+    :name: figure45
     :scale: 50%
     :align: center
 
     Schéma du fonctionnement de log4shell :cite:p:`fig:figure45`
 
 .. figure:: ./images/log4shell2.png
+    :name: figure46
     :scale: 70%
     :align: center
 
