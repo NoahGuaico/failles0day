@@ -25,3 +25,11 @@
 
 ..  bibliography:: online.bib
     :all:
+
+..  only:: html
+    
+    ..  rubric:: Iconographie
+
+..  bibliography:: figures.bib
+    :all:
+

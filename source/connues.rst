@@ -46,14 +46,14 @@ Celui-ci octroyait à l'attaquant le pouvoir de contrôler l'appareil et sa prog
     :scale: 90%
     :align: center
     
-    Schéma de fonctionnement de Stuxnet
+    Schéma de fonctionnement de Stuxnet :cite:p:`fig:figure41`
 
 .. figure:: ./images/stuxnet2.png
     :name: figure42
     :width: 100%
     :align: center
 
-    Schéma de fonctionnement de Stuxnet :cite:p:
+    Schéma de fonctionnement de Stuxnet :cite:p:``
 
 
 L'impact de ce malware a été considérable car la création d'un tel logiciel était tout bonnement inédite. 
