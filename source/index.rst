@@ -31,8 +31,6 @@ Les Failles zéros day
     protection.rst
 
     conclusion.rst
-   
-    .. peut-être ajouter un glossaire ?
 
     references.rst
 

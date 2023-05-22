@@ -9,8 +9,9 @@
     
     ..  rubric:: Livres
 
-..  bibliography:: book.bib
+..  bibliography:: books.bib
     :all:
+
 
 ..  only:: html
     
@@ -20,17 +21,17 @@
     :all:
 
 ..  only:: html
-
-    ..  rubric:: Iconographie
-
-..  bibliography:: figures.bib
-    :all:
-
-..  only:: html
     
     ..  rubric:: Webographie
 
 ..  bibliography:: online.bib
+    :all:
+
+..  only:: html
+    
+    ..  rubric:: Iconographie
+
+..  bibliography:: icono.bib
     :all:
 
   

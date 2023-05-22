@@ -84,6 +84,8 @@ du Web Services Description Language (WSDL) et permettait alors d'injecter du co
    :width: 100 %
    :align: center
 
+   Dépôt Github d'un exploit de CVE-2017-8759 :cite:p:`fig:figure43`
+
 Cette faille, accompagnée du logiciel malveillant FinFisher, a donc permis à certains hackers de récupérer des informations de connexion pour les services bancaires ou d'accéder à d'autres données sensibles 
 présentes sur les ordinateurs. 
 Ce sont aussi des raisons qui font que les attaques ayant exploité cette faille ont été suspectées d'avoir été menées initialement par un État-Nation dans le but d'espionner une organisation russophone.
@@ -124,6 +126,8 @@ le biais d'une application très utilisée.
     :scale: 90%
     :align: center
 
+    Capture d'écran d'une réunion zoom :cite:p:`fig:figure44`
+
 Log4shell
 =========
 Décrite par Lunasec comme un échec dans la conception ayant des proportions catastrophiques :cite:p:`wired:internet_on_fire`, et aussi par Tenable comme 
@@ -148,9 +152,13 @@ C'est aussi une des raisons pour lequelles l'Apache Software Foundation a attrib
     :scale: 50%
     :align: center
 
+    Schéma du fonctionnement de log4shell :cite:p:`fig:figure45`
+
 .. figure:: ./images/log4shell2.png
     :scale: 70%
     :align: center
+
+    Schéma du fonctionnement de log4shell :cite:p:`fig:figure46`
 
 L'impact provoqué par cette faiblesse informatique a été gigantesque. Effectivement, les appareils vulnérables étaient répandus 
 dans le monde entier à cause de l'immense popularité d'Apache, et se comptaient par centaines de millions.
