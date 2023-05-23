@@ -6,6 +6,7 @@
 .. figure:: ./images/zero-day-attack-1260x420.jpg
     :width: 100%
     :align: center
+    :target: `fig:figure0`
 
 
 Les Failles zéros day
